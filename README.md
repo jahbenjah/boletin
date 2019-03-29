@@ -1,4 +1,4 @@
-# Boletin de Noticias .NET
+# Boletín de Noticias .NET
 
 Hola
 
@@ -6,4 +6,4 @@ Bienvenido al repositorio del boletín de noticias sobre .NET. La idea de este b
 
 Subscribete aqui;
 
-- Benjamin Camacho
+- Benjamín Camacho  
